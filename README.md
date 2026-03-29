@@ -1,5 +1,8 @@
 # No-Show-Automation-System
 Appointment automation system that sends confirmation, reminder, and follow-up emails. Designed to improve client communication and reduce missed appointments through automated workflows.
+## Context
+
+This project was built in less than a week using GoHighLevel during a limited trial period. It demonstrates my ability to quickly learn new tools and implement automation workflows.
 ## Use Case
 
 This system can be used by:

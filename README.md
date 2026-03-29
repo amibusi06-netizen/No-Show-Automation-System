@@ -19,6 +19,11 @@ This system can be used by:
 - GoHighLevel (trial)
 - Workflow automation logic
 - Email sequences
+  ## Key Value
+
+- Reduces no-show rate
+- Improves client communication
+- Saves time through automation
 ## What I learned
 - Workflow automation design
 - Trigger / action logic
